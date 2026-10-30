@@ -380,7 +380,7 @@ isLargeRamPortraitRepairSupportMask=0x2e
 isEarlysettingsEnable=TRUE
 
 #Enable earlyPCR
-numPCRsBeforeStreamOn=1
+numPCRsBeforeStreamOn=0
 
 AsyncCreateofflineFeature=true
 
